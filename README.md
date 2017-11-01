@@ -1,5 +1,5 @@
 # sem8_project
-Density based traffic control system
+Density based traffic signal control system
 
 
 
